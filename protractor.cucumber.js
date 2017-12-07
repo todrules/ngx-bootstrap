@@ -1,9 +1,3 @@
-let envUrl = "http://ngx-bootstrap-latest.surge.sh/#/";
-
-if (process.env.TRAVIS) {
-  envUrl = "http://localhost:3000/"
-}
-
 const chromeOptions = {
   // need this window size due to cutting last menu point by viewport borders. will be deleted after fix
   args: ['--headless', '--disable-gpu', '--window-size=800, 900']
@@ -17,7 +11,7 @@ exports.config = {
 
   SELENIUM_PROMISE_MANAGER: false,
 
-  baseUrl: envUrl,
+  baseUrl: process.env.URL,
 
   capabilities: {
     'browserName': 'chrome',
