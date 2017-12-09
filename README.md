@@ -10,10 +10,6 @@ Best way to quickly integrate <a href="https://getbootstrap.com/">Bootstrap 3</a
 <a href="https://badge.fury.io/js/ngx-reboot"><img src="https://badge.fury.io/js/ngx-reboot.svg" alt="npm version" ></a>
 <a href="https://npmjs.org/ngx-reboot"><img src="https://img.shields.io/npm/dm/ngx-reboot.svg" alt="npm downloads" ></a>
 
-<br/>
-<a href="https://ngx-slack.herokuapp.com"><img src="https://ngx-slack.herokuapp.com/badge.svg" alt="slack" ></a>
-</p>
-
 ## Links
 
 - [Documentation](http://valor-software.com/ngx-bootstrap/)
