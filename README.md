@@ -1,5 +1,5 @@
-<a href="http://valor-software.com/ngx-bootstrap/#/">
-    <h1 align="center">ngx-bootstrap</h1>
+<a href="http://github.io/todrules/gh-pages/ngx-reboot/">
+    <h1 align="center">ngx-reboot</h1>
 </a>
 
 <p align="center">
