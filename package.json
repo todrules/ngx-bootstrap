@@ -1,7 +1,7 @@
 {
-  "name": "ngx-bootstrap-base",
-  "version": "2.0.0-beta.11",
-  "description": "Native Angular Bootstrap Components",
+  "name": "ngx-reboot",
+  "version": "0.1.0",
+  "description": "Angular Components styled like Bootstrap",
   "private": true,
   "scripts": {
     "lite-server": "lite-server -c scripts/bs-config.js",
@@ -58,16 +58,16 @@
     "angular2",
     "twitter-bootstrap"
   ],
-  "author": "Dmitriy Shekhovtsov <valorkin@gmail.com>",
+  "author": "Todd Goodwin",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/valor-software/ngx-bootstrap.git"
+    "url": "git+ssh://git@github.com/todrules/ngx-reboot.git"
   },
   "bugs": {
-    "url": "https://github.com/valor-software/ngx-bootstrap/issues"
+    "url": "https://github.com/todrules/ngx-reboot/issues"
   },
-  "homepage": "https://github.com/valor-software/ngx-bootstrap#readme",
+  "homepage": "https://github.com/todrules/ngx-reboot#readme",
   "dependencies": {},
   "peerDependencies": {
     "@angular/common": ">=4.3.0 || >5.0.0",
